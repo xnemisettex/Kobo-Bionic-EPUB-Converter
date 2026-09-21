@@ -1,5 +1,3 @@
-# Kobo-Bionic-EPUB-Converter
-A Python tool that scans your Kobo library and creates Bionic Reading EPUB copies while preserving the original books, folder structure and navigation.
 # Kobo Bionic EPUB Converter
 
 A Python utility for creating Bionic Reading editions of books already exported to a Kobo eReader using Calibre.
